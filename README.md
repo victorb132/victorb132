@@ -6,19 +6,23 @@
   <p>Com 25 anos, formado em engenharia da computação e sempre buscando conhecimento! </p>
 </div>
 
-## 🛠 Algumas das minhas características!
+<div align="center">
+  ## 🛠 Algumas das minhas características 🤪
+</div>
 
 <br>
-<ul>
-  <li>🧑‍💻 Sou um desenvolvedor residente de <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
-  <li>💾 Tenho como foco as tecnologias: React-Native, React, Typescript and Node;</li>
-  <li>📖 Estudando diariamente com o foco de desenvolver um produto própio;</li>
-</ul>
+<div align="center">
+  <ul>
+    <li>🧑‍💻 Sou um desenvolvedor residente de <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+    <li>💾 Tenho como foco as tecnologias: React-Native, React, Typescript and Node;</li>
+    <li>📖 Estudando diariamente com o foco de desenvolver um produto própio;</li>
+  </ul>
+</div>
 <br>
 
 <div align="center">
   
-  ### 🛠 &nbsp;Minha stack de tecnologias
+  ### 🛠 &nbsp;Minha stack de tecnologias 💻
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### ⚙️ &nbsp; Analytics from Github
+### ⚙️ &nbsp; Análise do Github 🧐
 
 <p align="center">
 <a href="https://github.com/AVS1508">
