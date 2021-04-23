@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  ## 🛠 Algumas das minhas características 🤪
+  ### 🛠 &nbsp;Algumas das minhas características 🤪
 </div>
 
 <br>
