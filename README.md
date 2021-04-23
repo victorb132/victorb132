@@ -6,18 +6,16 @@
   <p>Com 25 anos, formado em engenharia da computação e sempre buscando conhecimento! </p>
 </div>
 
-<div align="center">
   ### 🛠 &nbsp;Algumas das minhas características 🤪
-</div>
 
 <br>
-<div align="center">
   <ul>
+  <div align="center">
     <li>🧑‍💻 Sou um desenvolvedor residente de <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
     <li>💾 Tenho como foco as tecnologias: React-Native, React, Typescript and Node;</li>
     <li>📖 Estudando diariamente com o foco de desenvolver um produto própio;</li>
+  </div>
   </ul>
-</div>
 <br>
 
 <div align="center">
