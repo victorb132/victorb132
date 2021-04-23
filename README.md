@@ -4,9 +4,10 @@
 
 <div align="center">
   <p>Com 25 anos, formado em engenharia da computação e sempre buscando conhecimento! </p>
-</div>
+
 
   ### 🛠 &nbsp;Algumas das minhas características 🤪
+  </div>
 
 <br>
   <ul>
