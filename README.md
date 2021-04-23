@@ -11,7 +11,7 @@
   </div>
 
 <br>
-  <ul style="list-style: none;">
+  <ul list-style-type: none;>
   <div align="center">
     <li>🧑‍💻 Sou um desenvolvedor residente de <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
     <li>💾 Tenho como foco as tecnologias: React-Native, React, Typescript and Node;</li>
