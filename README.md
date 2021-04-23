@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/victorb132/victorb132/blob/main/gifs/code.gif" width="230px">
   <h2> Olá <img src="https://github.com/victorb132/victorb132/blob/main/gifs/Hi.gif" width="30px">, Eu sou o Victor! </h2>
 </div>
 
