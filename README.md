@@ -39,7 +39,7 @@
 ### ⚙️ &nbsp; Análise do Github 🧐
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/victorb132">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorb132&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorb132&layout=compact&langs_count=8&theme=algolia"/>
 </a>
