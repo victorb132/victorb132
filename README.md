@@ -4,7 +4,7 @@
 
 ### Hi, I'm Victor 👋
 
-I'm a software engineer, instructor, digital artist and writer.
+I'm a software engineer.
 
 - 🚀 I'm currently working at [@DigitalRepublic](https://www.digitalrepublic.com.br/
 
