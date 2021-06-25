@@ -4,8 +4,8 @@
 
 ### Hi, I'm Victor 👋
 
-I'm a software engineer.
+I'm a Mobile programmer.
 
-- 🚀 I'm currently working at [@DigitalRepublic](https://www.digitalrepublic.com.br/
+- 🚀 I'm ever search for a new challenge!
 
 <br/>
