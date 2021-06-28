@@ -9,3 +9,4 @@ I'm a Mobile programmer.
 - 🚀 I'm ever search for a new challenge!
 
 <br/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorb132&layout=compact&langs_count=8&theme=algolia"/>
